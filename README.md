@@ -29,5 +29,17 @@ Because the most modern libraries and tools were used from Android world the bat
 
 # Screenshots of the app
 
+##### Notification alert when the phone is locked.
+![alt text](https://roomwizard.hagau.ro/alert-info-screens/info_alert_s1.png)
 ##### Login Screen.
 ![alt text](https://roomwizard.hagau.ro/alert-info-screens/info_alert_s0.png)
+##### Home Screen with top 10 events which will be sent next.
+![alt text](https://roomwizard.hagau.ro/alert-info-screens/info_alert_s2.png)
+##### Left menu with some additional features of the app.
+![alt text](https://roomwizard.hagau.ro/alert-info-screens/info_alert_s3.png)
+##### List of the events/messages imported. The import button.
+![alt text](https://roomwizard.hagau.ro/alert-info-screens/info_alert_s4.png)
+##### Settings section where client can specify which xls sheet and data should be handled.
+![alt text](https://roomwizard.hagau.ro/alert-info-screens/info_alert_s5.png)
+##### Sample data of xls from cloud.
+![alt text](https://roomwizard.hagau.ro/alert-info-screens/info_alert_s6.png)
