@@ -13,6 +13,9 @@ The project is built using:
 - LiveData
 - combination of Alarm Manager and Workmanager. 
 - Client flavors
+- MVVM + Layer Architectures
+- ViewBinding
+- etc ...
 
 A microservice/email service handler written in php  was built to send the information collected from Google cloud back to the app and also to react at the app requests to send emails or chat messages.
 The email sending process is built on the server side.
