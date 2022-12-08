@@ -40,6 +40,6 @@ Because the most modern libraries and tools were used from Android world the bat
 ##### List of the events/messages imported. The import button.
 ![alt text](https://roomwizard.hagau.ro/alert-info-screens/info_alert_s4.png)
 ##### Settings section where client can specify which xls sheet and data should be handled.
-![alt text](https://roomwizard.hagau.ro/alert-info-screens/info_alert_s5.png)
+![alt text](https://roomwizard.hagau.ro/alert-info-screens/info_alert_s5_.png)
 ##### Sample data of xls from cloud.
 ![alt text](https://roomwizard.hagau.ro/alert-info-screens/info_alert_s6.png)
