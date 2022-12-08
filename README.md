@@ -2,7 +2,18 @@
 Automation delivery messages system to send Email/SMS/Chat messages to clients.
 
 # Short summary
-The project is built using Kotlin, Hilt, Retrofit, coroutines, RX, LiveData, combination of Alarm Manager and Workmanager. 
+
+The project is built using:
+
+- Kotlin
+- Hilt
+- Retrofit
+- coroutines
+- RX
+- LiveData
+- combination of Alarm Manager and Workmanager. 
+- Client flavors
+
 A microservice/email service handler written in php  was built to send the information collected from Google cloud back to the app and also to react at the app requests to send emails or chat messages.
 The email sending process is built on the server side.
 Why Google Cloud? Easier to extend  the rights for some resources to more clients because many of them have @gmail.com address and is very flexible and simple to be used. 
