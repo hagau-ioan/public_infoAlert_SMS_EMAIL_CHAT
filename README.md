@@ -29,4 +29,5 @@ Because the most modern libraries and tools were used from Android world the bat
 
 # Screenshots of the app
 
-...soon ...
+##### Login Screen.
+![alt text](https://roomwizard.hagau.ro/alert-info-screens/info_alert_s5.png)
