@@ -13,6 +13,6 @@ After the list is imported into the app (because the client requested this, the 
 Even the app is closed, phone is restarted the background process will continue to work and to send the messages/events if there are any. 
 Because the most modern libraries and tools were used from Android world the battery of the device is used at the minimal.
 
-# Screend shoots of the app
+# Screenshots of the app
 
 ...soon ...
