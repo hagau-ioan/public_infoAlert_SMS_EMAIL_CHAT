@@ -30,4 +30,4 @@ Because the most modern libraries and tools were used from Android world the bat
 # Screenshots of the app
 
 ##### Login Screen.
-![alt text](https://roomwizard.hagau.ro/alert-info-screens/info_alert_s5.png?e2e23e)
+![alt text](https://roomwizard.hagau.ro/alert-info-screens/info_alert_s0.png)
